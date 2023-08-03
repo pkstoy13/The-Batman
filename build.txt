@@ -1,0 +1,3 @@
+displayName = Batman
+author = Phil
+version = 0.1
